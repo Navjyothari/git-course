@@ -211,22 +211,22 @@ Follow these steps to verify full project compliance:
 
 ## 🔗 Direct GitHub Grading File Links
 
-When pushed to a remote repository on GitHub (e.g. `https://github.com/<your-username>/<repo-name>`), the 7 required grading files are located at the following exact paths:
+The repository is hosted at [https://github.com/Navjyothari/git-course](https://github.com/Navjyothari/git-course). The 7 required grading files are located at the following exact direct URLs:
 
 1. **`README.md`**:  
-   `https://github.com/<your-username>/<repo-name>/blob/main/README.md`
+   https://github.com/Navjyothari/git-course/blob/main/README.md
 2. **`AboutUs.jsx`**:  
-   `https://github.com/<your-username>/<repo-name>/blob/main/src/pages/AboutUs.jsx`
+   https://github.com/Navjyothari/git-course/blob/main/src/pages/AboutUs.jsx
 3. **`App.css`**:  
-   `https://github.com/<your-username>/<repo-name>/blob/main/src/App.css`
+   https://github.com/Navjyothari/git-course/blob/main/src/App.css
 4. **`App.jsx`**:  
-   `https://github.com/<your-username>/<repo-name>/blob/main/src/App.jsx`
+   https://github.com/Navjyothari/git-course/blob/main/src/App.jsx
 5. **`CartSlice.jsx`**:  
-   `https://github.com/<your-username>/<repo-name>/blob/main/src/redux/CartSlice.jsx`
+   https://github.com/Navjyothari/git-course/blob/main/src/redux/CartSlice.jsx
 6. **`ProductList.jsx`**:  
-   `https://github.com/<your-username>/<repo-name>/blob/main/src/pages/ProductList.jsx`
+   https://github.com/Navjyothari/git-course/blob/main/src/pages/ProductList.jsx
 7. **`CartItem.jsx`**:  
-   `https://github.com/<your-username>/<repo-name>/blob/main/src/pages/CartItem.jsx`
+   https://github.com/Navjyothari/git-course/blob/main/src/pages/CartItem.jsx
 
 ---
 

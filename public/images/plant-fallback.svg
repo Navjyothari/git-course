@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e8f5e9" />
+      <stop offset="100%" stop-color="#c8e6c9" />
+    </linearGradient>
+    <linearGradient id="leafGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d6a4f" />
+      <stop offset="100%" stop-color="#1b4332" />
+    </linearGradient>
+    <linearGradient id="potGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d97736" />
+      <stop offset="100%" stop-color="#b85d19" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)" />
+  <!-- Pot -->
+  <polygon points="150,230 250,230 235,280 165,280" fill="url(#potGrad)" />
+  <rect x="145" y="222" width="110" height="12" rx="4" fill="#c4621b" />
+  <!-- Leaves -->
+  <path d="M200,220 C180,180 140,160 120,130 C150,130 185,160 195,210 Z" fill="url(#leafGrad)" opacity="0.9" />
+  <path d="M200,220 C220,180 260,160 280,130 C250,130 215,160 205,210 Z" fill="url(#leafGrad)" opacity="0.9" />
+  <path d="M200,210 C190,150 170,110 200,60 C230,110 210,150 200,210 Z" fill="url(#leafGrad)" />
+  <path d="M198,215 C170,170 120,150 100,100 C130,110 170,140 195,205 Z" fill="#40916c" opacity="0.85" />
+  <path d="M202,215 C230,170 280,150 300,100 C270,110 230,140 205,205 Z" fill="#52b788" opacity="0.85" />
+  <text x="200" y="35" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="600" fill="#2d6a4f" letter-spacing="1">PARADISE NURSERY</text>
+</svg>
